@@ -4,7 +4,7 @@ import Z from "./Pages/Z/Z"
 import { ToastContainer } from 'react-toastify';
 import Features from "./Components/Z/Features"
 import Contact from "./Components/Z/Contact"
-import About from "./Components/Z/about"
+import About from "./Components/Z/About"
 import Email from "./Pages/BulkyEmail/Email"
 import Job from "./Pages/JobManage/Job"
 import Zconnect from "./Pages/Zconnect/Zconnect"
