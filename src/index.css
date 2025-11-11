@@ -1,0 +1,24 @@
+@import "tailwindcss";
+@font-face {
+  font-family: "Bal-r";
+  src: url("./../public/fonts/Balo-r.ttf");
+}
+@font-face {
+  font-family: "Bal-b";
+  src: url("./../public/fonts/Balo-b.ttf");
+}
+@font-face {
+  font-family:"Bal-sb";
+  src: url("./../public/fonts/Balo-sb.ttf");
+}
+@font-face {
+  font-family: "Momo";
+  src: url("./../public/fonts/Momo.ttf");
+}
+body{
+  font-family: "Bal-r",serif;
+}
+
+#logo span, .z{ 
+  font-family: "Momo",serif;
+}
