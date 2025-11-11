@@ -3,7 +3,7 @@ import React from 'react'
 
 import { Link } from 'react-router-dom'
 import Navbar from './Navbar'
-import aboutpng from "../../assets/imgs/About.png"
+import aboutpng from "../../assets/imgs/about.png"
 
 
 
@@ -79,3 +79,4 @@ export default function About() {
 </>
 }
     
+
